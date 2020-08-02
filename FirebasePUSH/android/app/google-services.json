@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74412090646",
+    "firebase_url": "https://fintechlab-4ea46.firebaseio.com",
+    "project_id": "fintechlab-4ea46",
+    "storage_bucket": "fintechlab-4ea46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74412090646:android:4f010444c7a1a705c15c37",
+        "android_client_info": {
+          "package_name": "com.cipolat.flutter_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74412090646-tef98l1e74b2h5tc6t9v35ig7mp0nsr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHwqUT7DdgE3rfG6VYf1bwiGtLEgZOE6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74412090646-tef98l1e74b2h5tc6t9v35ig7mp0nsr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
